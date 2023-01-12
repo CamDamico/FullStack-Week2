@@ -1,0 +1,22 @@
+{
+  "name": "week-2-npm-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamDamico/Week-2-npm-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamDamico/Week-2-npm-samples/issues"
+  },
+  "homepage": "https://github.com/CamDamico/Week-2-npm-samples#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
